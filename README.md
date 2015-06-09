@@ -1,0 +1,2 @@
+# VagrantBoxes
+base Vagrant boxes
